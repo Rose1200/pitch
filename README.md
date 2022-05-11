@@ -11,6 +11,9 @@ HTML
 CSS
 
 Heroku - where the final project is deployed to.
+# Author
+Rose Kamau
+
 
 
 
