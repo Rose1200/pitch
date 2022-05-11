@@ -15,6 +15,9 @@ Heroku - where the final project is deployed to.
 Rose Kamau
 # contact
 for any enquiries conserning the app or for a collaboration email me Kamaur732@gmail.com
+# licence
+MIT licence
+
 
 
 
