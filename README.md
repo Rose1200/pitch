@@ -21,6 +21,20 @@ Open Terminal {Ctrl+Alt+T} git clone https://github.com/Rose1200/pitch.git
 cd pitch
 
 code . or atom . based on the text editor you have.
+ cloning
+Open Terminal {Ctrl+Alt+T} git clone https://github.com/Rose1200/pitch.git
+
+cd pitch
+
+code . or atom . based on the text editor you have.
+
+
+# licence
+MIT licence
+
+
+
+
 
 
 
