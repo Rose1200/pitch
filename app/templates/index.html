@@ -1,0 +1,27 @@
+{% extends 'base.html'%}
+<title>{% block title%} Pitch Garden {%endblock%}</title>
+<!-- Styles block -->
+
+{% block content%}
+
+<div class="card text-center">
+    <img class="card-img-top" style="height: 30rem" src="{{url_for('static', filename='images/grdn.jpg')}}" alt="">
+    <div class="card-header fst-italic">
+    Let's have fun
+    </div>
+    <div class="card-body">
+    <h1 class="card-title">PITCH GARDEN</h1>
+    <p class="card-text fs-4">We all need laughter to survive this dreadful life. Pitch in with your lamest jokes or pick-up lines. Make someone smile or laugh today and have a good time :)</p>
+    <br>
+    <a href="#" class="btn btn-success">Let's see what you come up with...</a>
+    </div>
+    <br> 
+    <div class="card-footer text-muted">
+    Laughter at it's finest
+    </div>
+</div>
+    
+
+
+
+{% endblock %}
