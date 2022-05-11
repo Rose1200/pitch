@@ -13,7 +13,8 @@ CSS
 Heroku - where the final project is deployed to.
 # Author
 Rose Kamau
-
+# contact
+for any enquiries conserning the app or for a collaboration email me Kamaur732@gmail.com
 
 
 
