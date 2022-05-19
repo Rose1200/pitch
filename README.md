@@ -30,7 +30,7 @@ code . or atom . based on the text editor you have.
 
 
 # licence
-MIT licence
+MIT Licence
 
 
 
